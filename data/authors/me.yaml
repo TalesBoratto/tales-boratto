@@ -51,7 +51,7 @@ education:
   - degree: PhD Computational Modeling
     institution: Federal University of Juiz de Fora
     start: 2022-12-15
-    end: Current
+    end: Present
     summary: |
       Research on federated machine learning for structural health monitoring,
       combining time-series analysis, signal processing, and feature engineering
@@ -77,6 +77,7 @@ experience:
   - role: Mid Data Scientist II
     org: Tractian
     start: 2025-10-13
+    end: 2026-10-23
     summary: |
       Developed and evaluated machine learning models for industrial fault
       detection, combining statistical analysis, signal processing, and
@@ -90,12 +91,25 @@ experience:
   - role: PhD Researcher
     org: Federal University of Juiz de Fora
     start: 2022-12-15
-    end: Current
+    end: Present
     summary: |
       Conducting research on machine learning for damage detection using
       sensor data, with a focus on federated learning and time-series analysis.
       Developing reproducible Python workflows for data preparation, feature
       engineering, model optimization, and comparative experimental evaluation.
+  - role: Gradute Researcher
+    org: Federal University of Juiz de Fora
+    start: 2020-03-16
+    end: 2022-11-16
+    summary: |
+      Developed a machine learning workflow to classify bronze alloys from audio
+      recordings, covering controlled data collection, dataset preparation,
+      signal processing, and feature engineering. Evaluated 60 classification
+      configurations across five feature sets, achieving 99.75% mean accuracy
+      with logistic regression on a controlled experimental dataset. Applied
+      feature selection, statistical testing, and error analysis to guide model
+      selection, and published findings in peer-reviewed journals and
+      international conference proceedings.
 
 skills:
   - name: Technical Skills
