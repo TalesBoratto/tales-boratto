@@ -36,8 +36,8 @@ links:
     url: www.linkedin.com/in/talesboratto
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=eJIQQ5EAAAAJ&hl=pt-BR&oi=ao
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0003-2106-7688
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/0000-0003-2106-7688
 
 interests:
   - Data Science
