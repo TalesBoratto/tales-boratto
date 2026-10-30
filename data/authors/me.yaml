@@ -11,8 +11,8 @@ name:
 postnominals:
   - MsC
   #- MIEEE
-status:
-  icon: "☕️"
+# status:
+#   icon: "☕️"
 role: Data Scientist
 bio: |
   Tales Boratto is a Data Scientist with one year of industry experience developing machine learning solutions for real-world problems. 
