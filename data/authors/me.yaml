@@ -2,85 +2,100 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
+  display: Tales Boratto
+  given: Tales
+  family: Boratto
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
   pronouns: he/him
 postnominals:
-  - PhD
-  - MIEEE
+  - MsC
+  #- MIEEE
 status:
   icon: "☕️"
-role: Senior AI Research Scientist
+role: Data Scientist
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  Tales Boratto is a Data Scientist with one year of industry experience developing machine learning solutions for real-world problems. 
+  As a PhD candidate in Computational Modeling, he combines hands-on industry experience with a strong research background 
+  in Python, machine learning, statistics, and predictive modeling.
 
-affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  His experience spans data preparation, exploratory data analysis, feature engineering, model optimization, and rigorous experimental evaluation. 
+  He focuses on understanding complex problems, extracting meaningful insights from data, and building reliable, reproducible solutions.
+
+#affiliations:
+  #- name: 
+  #  url: 
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: tboratto@gmail.com
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
   - icon: brands/github
-    url: https://github.com/example
+    url: https://github.com/TalesBoratto
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: www.linkedin.com/in/talesboratto
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
+    url: https://scholar.google.com/citations?user=eJIQQ5EAAAAJ&hl=pt-BR&oi=ao
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0003-2106-7688
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Data Science
+  - Machine Learning
+  - Statistical Modeling
+  - Anomaly Detection
+  - Signal Processing
+  - Feature Engineering
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: PhD Computational Modeling
+    institution: Federal University of Juiz de Fora
+    start: 2022-12-15
+    end: Current
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+      Research on federated machine learning for structural health monitoring,
+      combining time-series analysis, signal processing, and feature engineering
+      with rigorous experimental evaluation.
+    # button:
+    #   text: Download dissertation
+    #   url: /resume.pdf
+    #   icon: hero/arrow-down-tray
+  - degree: MSc Computational Modeling
+    institution: Federal University of Juiz de Fora
+    start: 2020-03-16
+    end: 2022-11-16
+  - degree: BS Mechanical Engineering
+    institution: Federal University of Juiz de Fora
+    start: 2014-03-16
+    end: 2020-01-20
+  - degree: BS Exact Sciences
+    institution: Federal University of Juiz de Fora
+    start: 2014-03-16
+    end: 2019-07-19
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Mid Data Scientist II
+    org: Tractian
+    start: 2025-10-13
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+      Developed and evaluated machine learning models for industrial fault
+      detection, combining statistical analysis, signal processing, and
+      physics-based feature engineering. Applied domain knowledge to translate
+      equipment behavior into predictive features, and conducted model validation
+      and error analysis to identify opportunities for improving detection performance.
+    # button:
+    #   text: View portfolio
+    #   url: /
+    #   icon: hero/arrow-down-tray
+  - role: PhD Researcher
+    org: Federal University of Juiz de Fora
+    start: 2022-12-15
+    end: Current
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Conducting research on machine learning for damage detection using
+      sensor data, with a focus on federated learning and time-series analysis.
+      Developing reproducible Python workflows for data preparation, feature
+      engineering, model optimization, and comparative experimental evaluation.
 
 skills:
   - name: Technical Skills
@@ -89,28 +104,41 @@ skills:
         level: 5
       - label: Machine Learning
         level: 5
-      - label: Cloud Computing
+      - label: Statistical Analysis
+        level: 4
+      - label: Statistical Analysis
+        level: 4
+      - label: Exploratory Data Analysis
+        level: 5
+      - label: Feature Engineering
+        level: 5
+      - label: Model Evaluation & Optimization
         level: 4
   - name: Research & Communication
     items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
+      - label: Experimental Design
         level: 4
-      - label: Grant Proposals
+      - label: Reproducible Research
+        level: 4
+      - label: Technical & Scientific Writing
+        level: 4
+      - label: Communication & Presentations
         level: 4
 
 languages:
-  - name: English
+  - name: Portuguese
     level: 5
     label: Native
-  - name: Spanish
+  - name: English
     level: 4
-    label: Fluent
+    label: Advanced
+  - name: Spanish
+    level: 3
+    label: Intermediate
 
-awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+# awards:
+#   - title: Best Paper Award
+#     awarder: NeurIPS
+#     date: "2022-12-01"
+#     summary: Awarded for groundbreaking work on efficient training of large models.
+#     icon: hero/trophy
