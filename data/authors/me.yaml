@@ -7,7 +7,7 @@ name:
   family: Boratto
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
+  # pronouns: he/him
 postnominals:
   - MsC
   #- MIEEE
