@@ -3,13 +3,14 @@ title: Singing Register Classification with Evolutionary Hyperparameter Optimiza
 # date: 2023-10-26
 summary: Comparing SVM, MLP, and XGBoost for singing register classification using acoustic features and evolutionary hyperparameter optimization.
 tags:
-  - Machine Learning
-  - Multiclass Classification
   - Hyperparameter Optimization
   - Cross-Validation
   - Scikit-learn
   - XGBoost
-  - Audio Analysis
+  - Audio Analysis  
+  - Multiclass Classification
+  - Machine Learning
+
 featured: true
 draft: false
 ---

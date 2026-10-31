@@ -3,10 +3,10 @@ title: Autoencoder for Anomaly Detection in ECG Signals
 # date: 2023-10-26
 summary: Detecting anomalies in electrocardiogram signals using an autoencoder and reconstruction error.
 tags:
-  - Machine Learning
   - Anomaly Detection
   - Autoencoder
   - TensorFlow
+  - Machine Learning
 featured: true
 draft: false
 ---
