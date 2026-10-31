@@ -57,6 +57,25 @@ sections:
   #     view: article-grid
   #     columns: 2
   - block: collection
+    content:
+      title: Relevant Publications
+      text: ''
+      filters:
+        folders:
+          - publications
+        exclude_featured: false
+    design:
+      view: citation
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent & Upcoming Talks
+  #     filters:
+  #       folders:
+  #         - events
+  #   design:
+  #     view: card
+  - block: collection
     id: selected-projects
     content:
       title: Selected Projects
@@ -79,23 +98,4 @@ sections:
       show_date: false
       show_read_time: false
       show_read_more: true
-  - block: collection
-    content:
-      title: Relevant Publications
-      text: ''
-      filters:
-        folders:
-          - publications
-        exclude_featured: false
-    design:
-      view: citation
-  # - block: collection
-  #   id: talks
-  #   content:
-  #     title: Recent & Upcoming Talks
-  #     filters:
-  #       folders:
-  #         - events
-  #   design:
-  #     view: card
 ---
