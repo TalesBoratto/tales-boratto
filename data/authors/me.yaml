@@ -120,8 +120,6 @@ skills:
         level: 5
       - label: Statistical Analysis
         level: 4
-      - label: Statistical Analysis
-        level: 4
       - label: Exploratory Data Analysis
         level: 5
       - label: Feature Engineering
@@ -136,7 +134,7 @@ skills:
         level: 4
       - label: Technical & Scientific Writing
         level: 4
-      - label: Communication & Presentations
+      - label: Presentations
         level: 4
 
 languages:
