@@ -57,6 +57,7 @@ sections:
   #     view: article-grid
   #     columns: 2
   - block: collection
+    id: publications
     content:
       title: Relevant Publications
       text: ''
